@@ -1,0 +1,17 @@
+{
+  "name": "Exmaple",
+  "anidb_group": 12345,
+  "anidb_release": 67890,
+  "sub_lang": "pl",
+  "sub_default": true,
+  "files": [
+    {
+      "episode": "01",
+      "hash": "E3D12D09"
+    },
+    {
+      "episode": "02",
+      "hash": "1F274BA5"
+    }
+  ]
+}
